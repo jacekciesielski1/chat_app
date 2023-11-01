@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602317261008",
+    "project_id": "cat-chat-92004",
+    "storage_bucket": "cat-chat-92004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602317261008:android:ff4399ff8d9bac251bf6d5",
+        "android_client_info": {
+          "package_name": "com.Jacek.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602317261008-cuu787r1es4089cgc7k3463ibfu5o2qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsxzFkBIpoq7_pc5fvG2azNSzzV_NHDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602317261008-cuu787r1es4089cgc7k3463ibfu5o2qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
